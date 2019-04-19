@@ -7,3 +7,6 @@ We'll see what I can do in this matter now.
 
 # one more line
 Okay, I'll add one more line to make sure commit has comments...
+
+# I'm adding one more line for testing
+Testing line is here
